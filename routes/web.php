@@ -7,4 +7,4 @@ Route::get('/', function () {
 });
 
 
-Route::get('/class', [App\Http\Controllers\ClassController::class, 'index'])->name('home');
+Route::get('/classes', [App\Http\Controllers\ClassController::class, 'index'])->name('home');
