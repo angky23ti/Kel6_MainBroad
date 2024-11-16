@@ -7,4 +7,4 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/classes', [anggotaController::class, 'index'])->name('anggotaController');
+Route::get('/kel6', [anggotaController::class, 'index'])->name('anggotaController');
