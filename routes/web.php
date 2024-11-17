@@ -15,4 +15,4 @@ Route::get('/angky', [angkyController::class, 'index']);
 
 Route::get('/sessy', [sessyController::class, 'index']);
 
-Route::get('/arifin', [sessyController::class, 'index']);
+Route::get('/arifin', [arifinController::class, 'index']);
