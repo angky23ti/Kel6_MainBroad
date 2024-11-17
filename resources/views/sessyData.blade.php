@@ -72,7 +72,7 @@
 </head>
 <body>
     <div class="profile-container">
-        <img src="images/boyAK.png" alt="Profile-Icon" class="profile-picture">
+        <img src="images/girlSS.png" alt="Profile-Icon" class="profile-picture">
         <h1>Sessy Presellia Isabella Simanungkalit</h1>
         <p><strong>NIM :</strong>2355301189</p>
         <p><strong>Email :</strong> sessy23ti@mahasiswa.pcr.ac.id </p>
