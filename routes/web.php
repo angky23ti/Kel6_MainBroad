@@ -14,3 +14,5 @@ Route::get('/', [kel6Controller::class, 'index']);
 Route::get('/angky', [angkyController::class, 'index']);
 
 Route::get('/sessy', [sessyController::class, 'index']);
+
+Route::get('/arifin', [sessyController::class, 'index']);
