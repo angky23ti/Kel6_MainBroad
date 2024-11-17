@@ -3,6 +3,7 @@
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\angkyController;
 use App\Http\Controllers\sessyController;
+use App\Http\Controllers\arifinController;
 use App\Http\Controllers\kel6Controller; // Utama
 
 // Route::get('/', function () {
